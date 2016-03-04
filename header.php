@@ -3,7 +3,7 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>Wired | Hand Crafted UI Framework on top of Bootstrap</title>
+      <title>Bootstrap.</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="apple-mobile-web-app-status-bar-style" content="default">
       <meta name="apple-mobile-web-app-capable" content="yes">
