@@ -22,6 +22,8 @@
       <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 
       <!-- Assets --> 
+      <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css"> 
+      <link rel="stylesheet" href="vendor/pace/css/pace.min.css"> 
       <link rel="stylesheet" href="css/style.css"> 
         
     </head>
