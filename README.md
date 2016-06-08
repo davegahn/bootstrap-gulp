@@ -1,6 +1,5 @@
-# Bootstrap Gulp
-Shim repository for Twitter Bootstrap 4 using Gulp
+# Nugget Template
+=========
+Basic template we use as starting point while coding a resource for [Codigu](https://codigu.co/)
 
-This package just provides the basic Bootstrap 4 in the package. This means that although the stylesheets are there, you will be required to provide your own means of including the styles. 
-
-The only thing about this package is all Scss files are compiled using Gulp instead of Grunt.
+We included [Bourbon](http://bourbon.io/) as our mixin library. So you need to install this one first before coding. If you’re not into preprocessors (you should really give it a try!), you can just use the CSS files and delete the SCSS folder. 
