@@ -2,3 +2,4 @@
 *.css.map
 bourbon
 node_modules
+css/*
